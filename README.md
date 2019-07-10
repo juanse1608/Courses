@@ -6,4 +6,5 @@ It contains notebooks about:
 
 1. Machine Learning (UNAL). 
 2. Computational Methods in Statistics (UNAL).
-3. Ideas and thoughs in my mind.
+3. Pattern Recognition (Uniandes).
+4. Ideas and thoughs in my mind.
