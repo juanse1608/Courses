@@ -1,0 +1,3 @@
+[submodule "Jupyters/Notebooks/NN-201902/NN-LatexDocuments"]
+	path = Jupyters/Notebooks/NN-201902/NN-LatexDocuments
+	url = https://github.com/juanse1608/NN-LatexDocuments.git
